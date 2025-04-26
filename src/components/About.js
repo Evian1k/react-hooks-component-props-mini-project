@@ -1,6 +1,6 @@
 import React from "react";
 
-function About({ image = "https://avatars.githubusercontent.com/u/197304308?s=400&u=8472ead44bf96d79639f5c00c082a4426cb69b27&v=4", about }) {
+function About({ image = "https://via.placeholder.com/215", about }) {
   return (
     <aside>
       <a
