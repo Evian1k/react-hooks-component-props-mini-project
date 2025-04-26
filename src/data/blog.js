@@ -1,29 +1,27 @@
-import logo from "../assets/logo";
-
 const blogData = {
-  name: "Underreacted",
-  image: logo,
-  about: "A blog about learning React",
+  name: "Emmanuel Evian",
+  image: "https://avatars.githubusercontent.com/u/197304308?s=400&u=8472ead44bf96d79639f5c00c082a4426cb69b27&v=4",
+  about: "Welcome to my digital corner! I'm Emmanuel Evian — front-end enthusiast, coffee philosopher, and React wizard in training.",
   posts: [
     {
       id: 1,
-      title: "Components 101",
-      date: "December 15, 2020",
-      preview: "Setting up the building blocks of your site",
-      minutes: 5,
+      title: "Understanding React Components",
+      date: "March 10, 2025",
+      preview: "Let's dive deep into how components work in React!",
+      minutes: 8,
     },
     {
       id: 2,
-      title: "React Data Flow",
-      date: "December 11, 2020",
-      preview: "Passing props is never passé",
-      minutes: 15,
+      title: "A Day in the Life of a Developer",
+      date: "April 5, 2025",
+      preview: "Ever wondered what developers actually do all day? Here's a look.",
+      minutes: 16,
     },
     {
       id: 3,
-      title: "Function vs Class Components",
-      preview: "React, meet OOJS.",
-      minutes: 47,
+      title: "Why Coffee is Essential for Coding",
+      preview: "Coffee fuels creativity and code. Find out why inside!",
+      minutes: 45,
     },
   ],
 };
